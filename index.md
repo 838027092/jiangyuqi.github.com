@@ -10,6 +10,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>江宇奇</h1>
+      <p><b></b></p>
+      <p><b>浙江万里学院大学大数据智能学院</b></p>
+      <p><b>邮箱：838027092@qq.com</b></p>
+      <p><b>研究方向：大数据程序开发与应用</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      %jiangyuqi.jpg
+    </td>
+  </tr>
+</table>
 
 ##大学希望取得的成就
 
@@ -65,20 +79,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>江宇奇</h1>
-      <p><b></b></p>
-      <p><b>浙江万里学院大学大数据智能学院</b></p>
-      <p><b>邮箱：838027092@qq.com</b></p>
-      <p><b>研究方向：大数据程序开发与应用</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      %jiangyuqi.jpg
-    </td>
-  </tr>
-</table>
 
 
 
