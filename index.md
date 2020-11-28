@@ -8,7 +8,7 @@
       <p><b>研究方向：大数据程序开发与应用</b></p>
     </td>
     <td width="25%">
-      <img src="/.B623CC50CE111D8FA5F4887276BE0997.jpg" width="100%">      
+      <img src="/.jiangyuqi.jpg" width="100%">      
     </td>
   </tr>
 </table>
