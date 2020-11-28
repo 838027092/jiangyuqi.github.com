@@ -41,23 +41,13 @@ Topcoder比赛
 6.将自己的时间尽可能的花在学习相关的上面，让自己在毕业之时可以有能力成为一个合格的大数据工程师并且努力去一个好的公司
 
 
-#希望掌握的能力
+###希望掌握的能力
 非常扎实的Java基础，熟悉Python、C++、VB等编程语言
 精通MapReduce设计方法和Spark计算框架
 研读过Hadoop、Hbase、Hive源代码，并能在特定业务中进行定制改造
 掌握数据存储系统、分布式计算系统、挖掘算法等设计、研发以及维护、优化工作的方法
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/838027092/12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
 
