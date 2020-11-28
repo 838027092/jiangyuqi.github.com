@@ -1,3 +1,20 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>江宇奇</h1>
+      <p><b></b></p>
+      <p><b>浙江万里学院大学大数据智能学院</b></p>
+      <p><b>邮箱：838027092@qq.com</b></p>
+      <p><b>地址：宁波市北仑区，邮编315800</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % jiangyuqi.jpg
+    </td>
+  </tr>
+</table>
+
+
+
 ###个人信息
 
 ####姓名：江宇奇
