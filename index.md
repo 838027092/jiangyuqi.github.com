@@ -8,7 +8,7 @@
       <p><b>地址：宁波市北仑区，邮编315800</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % jiangyuqi.jpg
+      <img src="/zhengjianzhao.jpg" width="100%">      %jiangyuqi.jpg
     </td>
   </tr>
 </table>
