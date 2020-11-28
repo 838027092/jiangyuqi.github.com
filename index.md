@@ -14,7 +14,6 @@
 </table>
 
 ```markdown
-Syntax highlighted code block
 
 ##大学希望取得的成就
 
@@ -49,11 +48,6 @@ Syntax highlighted code block
 ##掌握数据存储系统、分布式计算系统、挖掘算法等设计、研发以及维护、优化工作的方法
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
